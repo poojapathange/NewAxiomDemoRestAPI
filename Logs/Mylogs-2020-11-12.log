@@ -1,0 +1,219 @@
+[INFO ] 2020-11-04 20:15:48.685 [main] ProjectBaseClass - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-11-04 20:15:48.703 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-04 20:15:48.704 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-04 20:15:48.771 [main] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-11-04 20:16:02.142 [main] ProjectBaseClass - Browser opened & URL entered is Successful
+[ERROR] 2020-11-04 20:16:02.328 [main] ProjectBaseClass - CustomerRegistration_OpenURL
+[ERROR] 2020-11-04 20:16:03.276 [main] ProjectBaseClass - PropertySearch
+[INFO ] 2020-11-04 20:17:32.923 [main] ProjectBaseClass - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-11-04 20:17:32.926 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-04 20:17:32.926 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-04 20:17:32.958 [main] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-11-04 20:17:47.566 [main] ProjectBaseClass - Browser opened & URL entered is Successful
+[ERROR] 2020-11-04 20:17:47.894 [main] ProjectBaseClass - CustomerRegistration_OpenURL
+[ERROR] 2020-11-04 20:18:22.140 [main] ProjectBaseClass - PropertySearch
+[INFO ] 2020-11-04 20:20:18.524 [main] ProjectBaseClass - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-11-04 20:20:18.532 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-04 20:20:18.535 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-04 20:20:18.585 [main] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-11-04 20:20:32.811 [main] ProjectBaseClass - Browser opened & URL entered is Successful
+[ERROR] 2020-11-04 20:20:33.078 [main] ProjectBaseClass - CustomerRegistration_OpenURL
+[ERROR] 2020-11-04 20:21:07.380 [main] ProjectBaseClass - PropertySearch
+[INFO ] 2020-11-04 20:22:43.644 [main] ProjectBaseClass - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-11-04 20:23:08.317 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-04 20:23:19.579 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-04 20:23:22.068 [main] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-11-04 20:23:55.609 [main] ProjectBaseClass - Browser opened & URL entered is Successful
+[ERROR] 2020-11-04 20:24:06.566 [main] ProjectBaseClass - CustomerRegistration_OpenURL
+[INFO ] 2020-11-04 20:34:09.468 [main] ProjectBaseClass - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-11-04 20:34:09.475 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-04 20:34:09.519 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-04 20:34:09.594 [main] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-11-04 20:34:24.710 [main] ProjectBaseClass - Browser opened & URL entered is Successful
+[ERROR] 2020-11-04 20:34:25.000 [main] ProjectBaseClass - CustomerRegistration_OpenURL
+[ERROR] 2020-11-04 20:34:59.324 [main] ProjectBaseClass - PropertySearch
+[INFO ] 2020-11-04 20:37:42.708 [main] ProjectBaseClass - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-11-04 20:37:42.715 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-04 20:37:42.718 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-04 20:37:42.784 [main] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-11-04 20:37:56.949 [main] ProjectBaseClass - Browser opened & URL entered is Successful
+[ERROR] 2020-11-04 20:37:57.092 [main] ProjectBaseClass - CustomerRegistration_OpenURL
+[ERROR] 2020-11-04 20:38:34.048 [main] ProjectBaseClass - PropertySearch
+[INFO ] 2020-11-12 21:30:57.826 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 21:30:57.847 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-12 21:32:15.901 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 21:32:15.907 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-12 21:34:50.945 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 21:34:50.948 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-12 21:37:12.447 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 21:37:12.450 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-12 21:45:36.763 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 21:45:36.769 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-12 21:55:50.434 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 21:55:50.438 [main] ProjectBaseClass - URL Fetched :https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-12 21:56:07.445 [main] ProjectBaseClass - URL used to getch Employee details is : https://www.propertyfinder.ae/?gclid=EAIaIQobChMIz63mwoDm7AIVFO3tCh2NSgNAEAAYASAAEgJnr_D_BwE
+[INFO ] 2020-11-12 22:04:16.586 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:04:16.592 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:04:17.674 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:08:34.504 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:08:34.508 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:08:44.809 [main] ProjectBaseClass - URL used to getch Employee details is : 
+[INFO ] 2020-11-12 22:10:02.211 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:10:02.215 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:10:03.273 [main] ProjectBaseClass - URL used to getch Employee details is : 
+[INFO ] 2020-11-12 22:11:58.403 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:11:58.407 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:11:59.495 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:13:59.977 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:13:59.981 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:14:01.099 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:16:30.003 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:16:30.007 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:16:31.061 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:25:03.414 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:25:03.423 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:25:04.547 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:32:07.757 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:32:07.763 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:32:08.836 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:34:39.892 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:34:39.896 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:34:40.955 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:37:18.382 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:37:18.388 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:37:19.688 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:39:07.793 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:39:07.797 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:39:08.864 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:40:41.294 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:40:41.317 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:40:43.128 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:42:26.466 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:42:26.472 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:42:28.068 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:44:02.607 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:44:02.613 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:44:04.115 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:45:00.190 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:45:00.195 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:45:01.727 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:46:17.639 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:46:17.644 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:46:19.157 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:49:45.354 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:49:45.360 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:49:47.481 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 22:52:17.304 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 22:52:17.339 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 22:52:18.990 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:03:26.153 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:03:26.158 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:03:27.755 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:08:16.019 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:08:16.031 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:08:17.490 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:14:52.737 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:14:52.741 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:14:53.697 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:15:08.221 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:15:08.224 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:15:09.161 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:15:20.441 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:15:20.445 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:15:21.396 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:17:02.651 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:17:02.654 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:17:03.578 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:17:38.199 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:17:38.202 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:17:39.139 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:18:14.219 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:18:14.222 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:18:15.108 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:20:10.734 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:20:10.738 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:20:11.646 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:20:52.012 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:20:52.015 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:20:52.965 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:22:49.605 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:22:49.608 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:22:50.506 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:23:27.496 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:23:27.499 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:23:28.436 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:24:06.276 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:24:06.279 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:24:07.211 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:24:22.446 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:24:22.449 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:24:23.368 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:24:51.869 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:24:51.872 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:24:52.812 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:26:05.561 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:26:05.564 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:26:06.496 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:27:41.819 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:27:41.822 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:27:42.726 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:28:13.902 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:28:13.905 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:28:14.804 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:28:33.750 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:28:33.754 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:28:34.657 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:28:53.065 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:28:53.068 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:28:54.004 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:29:19.373 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:29:19.376 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:29:20.317 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:30:16.195 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:30:16.201 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:30:17.123 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:33:52.980 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:33:52.983 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:33:53.872 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employee/2
+[INFO ] 2020-11-12 23:34:54.004 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:34:54.011 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:34:55.851 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employee/2
+[INFO ] 2020-11-12 23:36:00.708 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:36:00.711 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:36:01.640 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employee/2
+[INFO ] 2020-11-12 23:37:16.126 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:37:16.129 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:37:17.060 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employee/2
+[INFO ] 2020-11-12 23:50:24.877 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:50:24.880 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:50:25.821 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:52:00.366 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:52:01.269 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:52:02.239 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:52:11.660 [main] ProjectBaseClass - -----------Validating for sucess code--------------
+[INFO ] 2020-11-12 23:53:07.004 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:53:07.007 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:53:07.959 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:53:16.717 [main] ProjectBaseClass - -----------Validating for sucess code--------------
+[INFO ] 2020-11-12 23:53:24.946 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:53:24.949 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:53:25.884 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-12 23:53:34.737 [main] ProjectBaseClass - -----------Validating for sucess code--------------
+[INFO ] 2020-11-12 23:55:00.011 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:55:00.015 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:55:00.447 [main] ProjectBaseClass - -----------Validating for sucess code--------------
+[INFO ] 2020-11-12 23:55:27.982 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:55:27.985 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:55:28.902 [main] ProjectBaseClass - URL used to getch Employee details is : https://reqres.in/api/users?page=2
+[INFO ] 2020-11-12 23:55:37.304 [main] ProjectBaseClass - -----------Validating for sucess code--------------
+[INFO ] 2020-11-12 23:56:32.510 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:56:32.513 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:56:33.422 [main] ProjectBaseClass - URL used to getch Employee details is : https://reqres.in/api/users?page=2
+[INFO ] 2020-11-12 23:56:41.776 [main] ProjectBaseClass - -----------Validating for sucess code--------------
+[INFO ] 2020-11-12 23:57:22.148 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:57:22.152 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:57:22.609 [main] ProjectBaseClass - -----------Validating for sucess code--------------
+[INFO ] 2020-11-12 23:57:44.735 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-12 23:57:44.738 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-12 23:57:45.658 [main] ProjectBaseClass - URL used to getch Employee details is : https://reqres.in/api/users?page=2
+[INFO ] 2020-11-12 23:57:54.049 [main] ProjectBaseClass - -----------Validating for sucess code--------------

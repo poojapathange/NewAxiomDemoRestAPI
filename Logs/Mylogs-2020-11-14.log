@@ -1,0 +1,19 @@
+[INFO ] 2020-11-14 13:41:04.377 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-14 13:41:04.405 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-14 13:41:04.454 [main] ProjectBaseClass - --------------------------Scenario 1 ---------------------------
+[INFO ] 2020-11-14 13:41:06.033 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[INFO ] 2020-11-14 13:41:20.139 [main] ProjectBaseClass - --------------------------Scenario 2 ---------------------------
+[ERROR] 2020-11-14 13:41:27.607 [main] ProjectBaseClass - AxiomTestScenario2
+[INFO ] 2020-11-14 14:15:03.574 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-14 14:15:03.578 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-14 14:15:03.598 [main] ProjectBaseClass - --------------------------Scenario 1 ---------------------------
+[INFO ] 2020-11-14 14:15:04.274 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[ERROR] 2020-11-14 14:15:09.219 [main] ProjectBaseClass - AxiomTestScenario1
+[INFO ] 2020-11-14 14:15:09.226 [main] ProjectBaseClass - --------------------------Scenario 2 ---------------------------
+[ERROR] 2020-11-14 14:15:15.944 [main] ProjectBaseClass - AxiomTestScenario2
+[INFO ] 2020-11-14 14:15:32.360 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-11-14 14:15:32.365 [main] ProjectBaseClass - URL Fetched :http://dummy.restapiexample.com
+[INFO ] 2020-11-14 14:15:32.389 [main] ProjectBaseClass - --------------------------Scenario 1 ---------------------------
+[INFO ] 2020-11-14 14:15:32.977 [main] ProjectBaseClass - URL used to getch Employee details is : http://dummy.restapiexample.com/api/v1/employees
+[ERROR] 2020-11-14 14:15:36.897 [main] ProjectBaseClass - AxiomTestScenario1
+[INFO ] 2020-11-14 14:15:36.906 [main] ProjectBaseClass - --------------------------Scenario 2 ---------------------------
